@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Hung
-- Đây là phần mềm giúp quản lý hóa đơn nhập, hóa đơn bán gỗ của một doanh nghiệp
-- Với các chức năng thêm, sửa, xóa, tìm kiếm
+Phần mềm Quản lý bán gỗ giúp cửa hàng có thể kiểm tra doanh thu, số lượng hàng hóa, thông tin khách hàng, thông tin nhà cung cấp và thông tin hóa đơn bán, hóa đơn nhập.
 
 <!---
 volam2cva/Quan-Ly-Ban-Go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
